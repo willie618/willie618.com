@@ -3,7 +3,7 @@
 <html>
   
   <head>
-    <title>New Page</title>
+    <title>Downloads</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootswatch/3.0.0/cerulean/bootstrap.min.css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -18,21 +18,24 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
               <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
-            <a href="#" class="navbar-brand"><b>willie618</b></a>
+            <a href="index.php" class="navbar-brand"><b>willie618</b></a>
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
               <li>
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
               </li>
               <li class="active">
-                <a href="downloads.html">Downloads</a>
+                <a href="downloads.php">Downloads</a>
               </li>
               <li>
-                <a href="about.html">About</a>
+                <a href="encryptedEmail.php">Encrypted Email</a>
+              </li>              
+              <li>
+                <a href="about.php">About</a>
               </li>
               <li>
-                <a href="contact.html">Contact</a>
+                <a href="contact.php">Contact</a>
               </li>
             </ul>
           </div>
@@ -90,17 +93,6 @@
         <li>
           <span style="line-height: 1.428571429;">I am not affiliated with Capcom, Squaresoft, or Atlus. These programs are free and not meant for sale.</span><br></li>
       </ul>
-      <p></p>
-      <p></p>
-      <p></p>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
     </div>
   </body>
 

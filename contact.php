@@ -3,7 +3,7 @@
 <html>
   
   <head>
-    <title>New Page</title>
+    <title>Contact</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootswatch/3.0.0/cerulean/bootstrap.min.css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -18,38 +18,31 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
               <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
-            <a href="#" class="navbar-brand"><b>willie618</b></a>
+            <a href="index.php" class="navbar-brand"><b>willie618</b></a>
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
+              <li>
+                <a href="index.php">Home</a>
+              </li>
+              <li>
+                <a href="downloads.php">Downloads</a>
+              </li>
+              <li>
+                <a href="encryptedEmail.php">Encrypted Email</a>
+              </li>              
+              <li>
+                <a href="about.php">About</a>
+              </li>
               <li class="active">
-                <a href="index.html">Home</a>
-              </li>
-              <li>
-                <a href="downloads.html">Downloads</a>
-              </li>
-              <li>
-                <a href="about.html">About</a>
-              </li>
-              <li>
-                <a href="contact.html">Contact</a>
+                <a href="contact.php">Contact</a>
               </li>
             </ul>
           </div>
-          <div class="row"></div>
         </div>
       </div>
-      <p class="text-left">Welcome!</p>
-      <p>This the personal website of William Nguyen.</p>
-      <p>Press a button on the navigation bar to access another page.</p>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
-      <div class="row"></div>
+      <p>Email: <a href="mailto:willie618@gmail.com">willie618@gmail.com</a></p>
+      <p></p>
     </div>
   </body>
 
